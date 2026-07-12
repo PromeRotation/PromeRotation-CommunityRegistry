@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/PromeRotation/PromeRotation-CommunityRegistry/main/schemas/featured.schema.json",
+  "title": "PromeRotation Featured Catalog Sources",
+  "description": "A list of HTTPS manifest catalog URLs curated by the PromeRotation community.",
+  "type": "array",
+  "items": {
+    "type": "string",
+    "format": "uri",
+    "pattern": "^https://"
+  },
+  "uniqueItems": true
+}

@@ -29,6 +29,23 @@
     "verifiedEntry": {
       "type": "object",
       "required": [
+        "bindings"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "bindings": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/verifiedBinding"
+          }
+        }
+      }
+    },
+    "verifiedBinding": {
+      "type": "object",
+      "required": [
         "repositoryUrl",
         "catalogUrls"
       ],

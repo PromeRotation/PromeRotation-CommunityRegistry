@@ -2,15 +2,29 @@
   "schemaVersion": 1,
   "entries": {
     "MilkVio": {
-      "repositoryUrl": "https://github.com/MilkVio/MirukuACR",
-      "catalogUrls": [
-        "https://1830059912.cdn.123clouddisk.com/1830059912/Test/MilkVio.json"
+      "bindings": [
+        {
+          "repositoryUrl": "https://github.com/MilkVio/MirukuACR",
+          "catalogUrls": [
+            "https://1830059912.cdn.123clouddisk.com/1830059912/Test/MilkVio.json"
+          ]
+        },
+        {
+          "repositoryUrl": "https://github.com/MilkVio/MirukuACR-TC",
+          "catalogUrls": [
+            "https://github.com/MilkVio/MirukuACR-TC/releases/latest/download/repo.json"
+          ]
+        }
       ]
     },
     "Wotou": {
-      "repositoryUrl": "https://github.com/kanyeishere/PRACR",
-      "catalogUrls": [
-        "https://github.com/kanyeishere/PRACR/releases/latest/download/repo.json"
+      "bindings": [
+        {
+          "repositoryUrl": "https://github.com/kanyeishere/PRACR",
+          "catalogUrls": [
+            "https://github.com/kanyeishere/PRACR/releases/latest/download/repo.json"
+          ]
+        }
       ]
     }
   }

@@ -6,7 +6,7 @@
         {
           "repositoryUrl": "https://github.com/MilkVio/MirukuACR",
           "catalogUrls": [
-            "https://1830059912.cdn.123clouddisk.com/1830059912/Test/MilkVio.json"
+            "https://github.com/MilkVio/MirukuACR/releases/latest/download/repo.json"
           ]
         },
         {
@@ -23,6 +23,16 @@
           "repositoryUrl": "https://github.com/kanyeishere/PRACR",
           "catalogUrls": [
             "https://github.com/kanyeishere/PRACR/releases/latest/download/repo.json"
+          ]
+        }
+      ]
+    },
+    "Wotou-TC": {
+      "bindings": [
+        {
+          "repositoryUrl": "https://github.com/kanyeishere/PRACR-TC",
+          "catalogUrls": [
+            "https://github.com/kanyeishere/PRACR-TC/releases/latest/download/repo.json"
           ]
         }
       ]

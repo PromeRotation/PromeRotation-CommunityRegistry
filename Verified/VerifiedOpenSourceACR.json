@@ -36,6 +36,16 @@
           ]
         }
       ]
+    },
+    "Los": {
+      "bindings": [
+        {
+          "repositoryUrl": "https://github.com/Elio0825/Los_PR",
+          "catalogUrls": [
+            "https://github.com/Elio0825/Los_PR/releases/latest/download/repo.json"
+          ]
+        }
+      ]
     }
   }
 }

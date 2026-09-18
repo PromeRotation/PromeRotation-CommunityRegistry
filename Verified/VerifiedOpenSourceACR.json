@@ -46,6 +46,16 @@
           ]
         }
       ]
+    },
+    "Los-TC": {
+      "bindings": [
+        {
+          "repositoryUrl": "https://github.com/Elio0825/Los_PR",
+          "catalogUrls": [
+            "https://github.com/Elio0825/Los_PR-TC/releases/latest/download/repo.json"
+          ]
+        }
+      ]
     }
   }
 }

@@ -56,6 +56,16 @@
           ]
         }
       ]
+    },
+    "Nag0mi": {
+      "bindings": [
+        {
+          "repositoryUrl": "https://github.com/eroubue/Nag0miACR",
+          "catalogUrls": [
+            "https://github.com/eroubue/Nag0miACR/releases/latest/download/repo.json"
+          ]
+        }
+      ]
     }
   }
 }

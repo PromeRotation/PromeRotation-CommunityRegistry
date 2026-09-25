@@ -1,4 +1,15 @@
 {
   "schemaVersion": 1,
-  "entries": {}
+  "entries": {
+    "PRPlayer": {
+      "bindings": [
+        {
+          "repositoryUrl": "https://github.com/eroubue/PRPlayer",
+          "catalogUrls": [
+            "https://github.com/eroubue/PRPlayer/releases/latest/download/repo.json"
+          ]
+        }
+      ]
+    }
+  }
 }
